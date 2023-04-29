@@ -3,7 +3,7 @@ package ejerciciosjavaintrop4;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Ejercicio5P4 {
+public class Ej5P4MatrizAntisimetrica {
 //    Realice un programa que compruebe si una matriz dada es antisimétrica.
 //    Se dice que una matriz A es antisimétrica cuando ésta es igual a su propia
 //    traspuesta, pero cambiada de signo. Es decir, A es antisimétrica si A = -AT.

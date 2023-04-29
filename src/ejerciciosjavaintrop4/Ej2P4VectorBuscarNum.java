@@ -2,7 +2,7 @@ package ejerciciosjavaintrop4;
 
 import java.util.Scanner;
 
-public class Ejercicio2P4 {
+public class Ej2P4VectorBuscarNum {
 //    Realizar un algoritmo que llene un vector de tamaño N con valores
 //    aleatorios y le pida al usuario un número a buscar en el vector. El
 //    programa mostrará dónde se encuentra el numero y si se encuentra

@@ -2,7 +2,7 @@ package ejerciciosjavaintrop4;
 
 import java.util.Scanner;
 
-public class Ejercicio6P4 {
+public class Ej6P4MatrizMagica {
 //    Un cuadrado mágico 3 x 3 es una matriz 3 x 3 formada por números del 1 al 9
 //    donde la suma de sus filas, sus columnas y sus diagonales son idénticas.
 //    Crear un programa que permita introducir un cuadrado por teclado y determine

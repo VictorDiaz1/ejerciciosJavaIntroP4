@@ -1,6 +1,6 @@
 package ejerciciosjavaintrop4;
 
-public class Ejercicio1P4 {
+public class Ej1P4Vector_100Descendente {
 
 //    Realizar un algoritmo que llene un vector con los 100 primeros números
 //    enteros y los muestre por pantalla en orden descendente.
