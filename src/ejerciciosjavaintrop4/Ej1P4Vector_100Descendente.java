@@ -1,5 +1,7 @@
 package ejerciciosjavaintrop4;
 
+import java.util.Arrays;
+
 public class Ej1P4Vector_100Descendente {
 
 //    Realizar un algoritmo que llene un vector con los 100 primeros números
@@ -13,8 +15,9 @@ public class Ej1P4Vector_100Descendente {
             cont--;
             vector[i] = cont;
 
-            System.out.println("[" + vector[i] + "]");
+            //System.out.println("[" + vector[i] + "]");
         }
+        System.out.println(Arrays.toString(vector));
 
     }
 
